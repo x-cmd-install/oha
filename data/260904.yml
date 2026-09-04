@@ -7,7 +7,7 @@ about:
   head: f3c8586
   archived: false
   latestVersion: v1.16.0
-  collectedAt: 2026-09-04T19:25:23Z
+  collectedAt: 2026-09-04T21:10:02Z
 timeline:
   created: 2020-03-02
   lastCommit: 2026-08-23
@@ -82,6 +82,44 @@ total:
   openIssue: 40
   commit: 1646
 ---
+path: /home/runner/.x-repo/github.com/hatoo/oha
+collectedAt: 2026-09-04T21:10:03Z
+loc:
+  Rust:
+    code: 8205
+    comments: 272
+    blanks: 904
+    files: 20
+  Json:
+    code: 484
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 127
+    comments: 7
+    blanks: 17
+    files: 3
+  Dockerfile:
+    code: 21
+    comments: 0
+    blanks: 7
+    files: 1
+  JavaScript:
+    code: 15
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 403
+    blanks: 179
+    files: 2
+total:
+  code: 8852
+  comments: 740
+  blanks: 1111
+  files: 28
 ---
 date: "2026-08-24"
 repo:
