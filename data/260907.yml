@@ -5,13 +5,13 @@ about:
   head: f3c8586
   archived: false
   latestVersion: "v1.16.0"
-  collectedAt: 2026-09-07T04:27:32Z
+  collectedAt: 2026-09-07T19:53:12Z
 timeline:
   created: 2020-03-02
   lastCommit: 2026-08-23
   lastRelease: 2026-08-23
 popularity:
-  star: 10531
+  star: 10533
   watcher: 31
   fork: 297
   release: 54
@@ -81,7 +81,7 @@ total:
   commit: 1646
 ---
 path: /home/runner/.x-repo/github.com/hatoo/oha
-collectedAt: 2026-09-07T04:27:33Z
+collectedAt: 2026-09-07T19:53:15Z
 loc:
   Rust:
     code: 8205
@@ -246,7 +246,7 @@ checks:
       - 'Info:   0 out of   4 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:27:35+00:00
+  collectedAt: 2026-09-07T19:53:17+00:00
   platform:
     darwin/arm64:
       name:  oha-macos-arm64
