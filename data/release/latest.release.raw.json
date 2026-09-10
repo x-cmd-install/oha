@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13429032,
       "digest": "sha256:620bb9e16fb53eabc9a3fc45f88bdb41fefa3fee5c05e75892011ce320391716",
-      "download_count": 4913,
+      "download_count": 4915,
       "created_at": "2026-08-23T09:10:18Z",
       "updated_at": "2026-08-23T09:10:19Z",
       "browser_download_url": "https://github.com/hatoo/oha/releases/download/v1.16.0/oha-linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8453120,
       "digest": "sha256:d692d392e958e7e8e1b16810287e74a835a62255b079ba2766a4b3b04499f267",
-      "download_count": 454,
+      "download_count": 455,
       "created_at": "2026-08-23T09:09:59Z",
       "updated_at": "2026-08-23T09:10:00Z",
       "browser_download_url": "https://github.com/hatoo/oha/releases/download/v1.16.0/oha-windows-amd64.exe"
