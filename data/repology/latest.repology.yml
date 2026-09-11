@@ -1,3 +1,36 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: oha
+  binname: oha
+  visiblename: oha
+  version: 1.16.0
+  origversion: 1.16.0-1
+  status: newest
+  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: oha
+  binname: oha
+  visiblename: oha
+  version: 1.16.0
+  origversion: 1.16.0-1
+  status: newest
+  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: oha
+  visiblename: oha
+  version: 1.4.4
+  origversion: null
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: oha
@@ -122,39 +155,6 @@
   summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
   licenses:
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: oha
-  binname: oha
-  visiblename: oha
-  version: 1.16.0
-  origversion: 1.16.0-1
-  status: newest
-  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: oha
-  binname: oha
-  visiblename: oha
-  version: 1.16.0
-  origversion: 1.16.0-1
-  status: newest
-  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: oha
-  visiblename: oha
-  version: 1.4.4
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - MIT
 - repo: nix_stable_24_11
   srcname: oha
   visiblename: oha
@@ -230,3 +230,13 @@
   status: newest
   licenses:
     - MIT
+- repo: termux
+  srcname: oha
+  binname: oha
+  visiblename: oha
+  version: 1.16.0
+  origversion: null
+  status: newest
+  summary: HTTP load generator with realtime tui, inspired by rakyll/hey
+  maintainers:
+    - gouranga.das.khulna@gmail.com

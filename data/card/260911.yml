@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.16.0"
   latestRelease: "v1.16.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:35:23Z
+  collectedAt: 2026-09-11T20:29:33Z
 timeline:
   created: 2020-03-02
   lastCommit: 2026-09-10
@@ -85,7 +85,7 @@ total:
   commit: 1652
 ---
 path: /home/runner/.x-repo/github.com/hatoo/oha
-collectedAt: 2026-09-11T04:35:24Z
+collectedAt: 2026-09-11T20:29:35Z
 loc:
   Rust:
     code: 8148
