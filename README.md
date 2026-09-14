@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 5 | 1 | 0 | 0 | 15 |
-| last60d | 2026-07-15 | 1 | 7 | 1 | 1 | 0 | 17 |
-| 90d | 2026-06-15 | 2 | 11 | 1 | 1 | 0 | 27 |
-| last180d | 2026-03-17 | 2 | 14 | 2 | 3 | 1 | 41 |
-| 360d | 2025-09-18 | 7 | 50 | 16 | 13 | 7 | 112 |
-| last720d | 2024-09-23 | 14 | 144 | 17 | 36 | 15 | 517 |
+| 30d | 2026-08-15 | 1 | 5 | 1 | 0 | 0 | 12 |
+| last60d | 2026-07-16 | 1 | 7 | 1 | 1 | 0 | 17 |
+| 90d | 2026-06-16 | 2 | 11 | 1 | 1 | 0 | 26 |
+| last180d | 2026-03-18 | 2 | 14 | 2 | 3 | 1 | 41 |
+| 360d | 2025-09-19 | 7 | 50 | 16 | 12 | 7 | 110 |
+| last720d | 2024-09-24 | 14 | 143 | 17 | 36 | 15 | 517 |
 
 ## Release assets
 
@@ -76,17 +76,6 @@ Lowest-scoring checks:
 | [oha-windows-amd64-pgo.exe](https://github.com/hatoo/oha/releases/download/v1.16.0/oha-windows-amd64-pgo.exe) | 7.0 MiB | `native/win/x64` |
 | [oha-windows-amd64.exe](https://github.com/hatoo/oha/releases/download/v1.16.0/oha-windows-amd64.exe) | 8.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **22** distros on [repology.org](https://repology.org/project/oha). **10** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.16.0` | ✅ latest |
-| Homebrew | `1.16.0` | ✅ latest |
-| Nix unstable | `1.16.0` | ✅ latest |
-| Alpine edge | `1.15.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oha` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +85,4 @@ Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:44:05Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:47:58Z._
