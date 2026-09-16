@@ -30,7 +30,7 @@ x install oha
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 1/9 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 1/10 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -57,12 +57,12 @@ x install oha
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 5 | 1 | 0 | 0 | 12 |
-| last60d | 2026-07-17 | 1 | 7 | 1 | 1 | 0 | 17 |
-| 90d | 2026-06-17 | 2 | 11 | 1 | 1 | 0 | 26 |
-| last180d | 2026-03-19 | 2 | 14 | 2 | 3 | 1 | 41 |
-| 360d | 2025-09-20 | 7 | 49 | 16 | 12 | 7 | 110 |
-| last720d | 2024-09-25 | 14 | 143 | 17 | 36 | 15 | 515 |
+| 30d | 2026-08-17 | 1 | 5 | 1 | 0 | 0 | 12 |
+| last60d | 2026-07-18 | 1 | 7 | 1 | 1 | 0 | 17 |
+| 90d | 2026-06-18 | 2 | 11 | 1 | 1 | 0 | 26 |
+| last180d | 2026-03-20 | 2 | 14 | 2 | 3 | 1 | 41 |
+| 360d | 2025-09-21 | 7 | 49 | 16 | 11 | 7 | 110 |
+| last720d | 2024-09-26 | 14 | 143 | 17 | 36 | 15 | 515 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ oha 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T04:53:01Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T04:47:57Z._
