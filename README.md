@@ -14,11 +14,11 @@ x install oha
 
 ## Code insight
 
-Total: **8,796** lines of code across **25** files in the top 5 languages.
+Total: **8,874** lines of code across **25** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,148 | 269 | 881 | 19 |
+| Rust | 8,226 | 270 | 884 | 19 |
 | Json | 484 | 0 | 0 | 1 |
 | Toml | 127 | 7 | 17 | 3 |
 | Dockerfile | 21 | 0 | 7 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.16.0` (2026-08-23)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-10-04
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 10,574 · **Forks**: 298 · **Open issues**: 183 · **Contributors**: 47
+- **Stars**: 10,575 · **Forks**: 299 · **Open issues**: 183 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 452 · **Open PRs**: 18 · **Closed issues**: 143 · **Open issues**: 40 · **Commits**: 1652
+- **Releases**: 54 · **Merged PRs**: 454 · **Open PRs**: 18 · **Closed issues**: 143 · **Open issues**: 40 · **Commits**: 1658
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 2 | 1 | 0 | 0 | 4 |
-| last60d | 2026-08-04 | 1 | 5 | 1 | 0 | 0 | 15 |
-| 90d | 2026-07-05 | 2 | 10 | 1 | 1 | 0 | 26 |
-| last180d | 2026-04-06 | 2 | 14 | 2 | 3 | 1 | 41 |
-| 360d | 2025-10-08 | 7 | 47 | 16 | 11 | 6 | 106 |
-| last720d | 2024-10-13 | 14 | 141 | 17 | 36 | 14 | 509 |
+| 30d | 2026-09-04 | 0 | 4 | 1 | 0 | 0 | 4 |
+| last60d | 2026-08-05 | 1 | 7 | 1 | 0 | 0 | 19 |
+| 90d | 2026-07-06 | 2 | 12 | 1 | 1 | 0 | 21 |
+| last180d | 2026-04-07 | 2 | 16 | 2 | 2 | 1 | 44 |
+| 360d | 2025-10-09 | 7 | 49 | 16 | 11 | 6 | 110 |
+| last720d | 2024-10-14 | 14 | 143 | 17 | 36 | 14 | 515 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:14:39Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:43:07Z._
