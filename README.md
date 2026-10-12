@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,589 · **Forks**: 300 · **Open issues**: 183 · **Contributors**: 47
+- **Stars**: 10,590 · **Forks**: 302 · **Open issues**: 183 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 454 · **Open PRs**: 18 · **Closed issues**: 143 · **Open issues**: 40 · **Commits**: 1658
+- **Releases**: 54 · **Merged PRs**: 454 · **Open PRs**: 19 · **Closed issues**: 143 · **Open issues**: 40 · **Commits**: 1658
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 2 | 1 | 0 | 0 | 4 |
-| last60d | 2026-08-12 | 1 | 7 | 1 | 0 | 0 | 19 |
-| 90d | 2026-07-13 | 1 | 9 | 1 | 1 | 0 | 21 |
-| last180d | 2026-04-14 | 2 | 15 | 2 | 2 | 1 | 44 |
-| 360d | 2025-10-16 | 7 | 49 | 16 | 11 | 6 | 110 |
-| last720d | 2024-10-21 | 14 | 143 | 17 | 36 | 14 | 515 |
+| 30d | 2026-09-12 | 0 | 2 | 1 | 0 | 0 | 4 |
+| last60d | 2026-08-13 | 1 | 7 | 2 | 0 | 0 | 16 |
+| 90d | 2026-07-14 | 1 | 9 | 2 | 1 | 0 | 21 |
+| last180d | 2026-04-15 | 2 | 15 | 3 | 2 | 1 | 44 |
+| 360d | 2025-10-17 | 7 | 49 | 17 | 11 | 6 | 109 |
+| last720d | 2024-10-22 | 14 | 143 | 18 | 36 | 14 | 515 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:43:25Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:49:33Z._
