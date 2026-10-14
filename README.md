@@ -26,13 +26,13 @@ Total: **8,915** lines of code across **25** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/10 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,593 · **Forks**: 302 · **Open issues**: 183 · **Contributors**: 48
+- **Stars**: 10,595 · **Forks**: 302 · **Open issues**: 183 · **Contributors**: 48
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 4 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-14 | 1 | 9 | 1 | 0 | 0 | 19 |
-| 90d | 2026-07-15 | 1 | 11 | 1 | 1 | 0 | 24 |
-| last180d | 2026-04-16 | 2 | 17 | 2 | 2 | 1 | 47 |
-| 360d | 2025-10-18 | 7 | 51 | 16 | 11 | 5 | 112 |
-| last720d | 2024-10-23 | 14 | 145 | 17 | 36 | 14 | 521 |
+| 30d | 2026-09-14 | 0 | 4 | 0 | 0 | 0 | 7 |
+| last60d | 2026-08-15 | 1 | 9 | 1 | 0 | 0 | 19 |
+| 90d | 2026-07-16 | 1 | 11 | 1 | 1 | 0 | 24 |
+| last180d | 2026-04-17 | 2 | 17 | 2 | 2 | 1 | 47 |
+| 360d | 2025-10-19 | 7 | 51 | 16 | 11 | 5 | 112 |
+| last720d | 2024-10-24 | 14 | 145 | 17 | 35 | 14 | 521 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:47:08Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:46:09Z._
