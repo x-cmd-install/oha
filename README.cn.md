@@ -26,13 +26,13 @@ x install oha
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4 / 10**
+总评分: **4.5 / 10**
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
-- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install oha
 ## 发布
 
 - **最新版本**: `v1.16.0` (2026-08-23)
-- **最近提交**: 2026-10-18
+- **最近提交**: 2026-10-19
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 10,616 · **Fork**: 373 · **开放 issue**: 183 · **贡献者**: 49
+- **Star**: 10,616 · **Fork**: 393 · **开放 issue**: 183 · **贡献者**: 50
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 457 · **开放 PR**: 19 · **已关闭 issue**: 143 · **开放 issue**: 40 · **提交数**: 1666
+- **发布数**: 54 · **已合并 PR**: 458 · **开放 PR**: 18 · **已关闭 issue**: 143 · **开放 issue**: 40 · **提交数**: 1668
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 5 | 1 | 0 | 0 | 8 |
-| last60d | 2026-08-20 | 1 | 9 | 2 | 0 | 0 | 12 |
-| 90d | 2026-07-21 | 1 | 12 | 2 | 0 | 0 | 24 |
-| last180d | 2026-04-22 | 2 | 18 | 3 | 2 | 1 | 36 |
-| 360d | 2025-10-24 | 7 | 50 | 17 | 11 | 5 | 103 |
-| last720d | 2024-10-29 | 13 | 140 | 18 | 33 | 14 | 504 |
+| 30d | 2026-09-20 | 0 | 6 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-21 | 1 | 10 | 1 | 0 | 0 | 13 |
+| 90d | 2026-07-22 | 1 | 13 | 1 | 0 | 0 | 25 |
+| last180d | 2026-04-23 | 2 | 18 | 2 | 2 | 1 | 37 |
+| 360d | 2025-10-25 | 7 | 51 | 16 | 11 | 4 | 104 |
+| last720d | 2024-10-30 | 13 | 141 | 17 | 33 | 14 | 506 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ oha 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T04:30:26Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T04:41:56Z._

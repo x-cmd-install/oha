@@ -26,13 +26,13 @@ Total: **8,979** lines of code across **25** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
-- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.16.0` (2026-08-23)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-19
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 10,616 · **Forks**: 373 · **Open issues**: 183 · **Contributors**: 49
+- **Stars**: 10,616 · **Forks**: 393 · **Open issues**: 183 · **Contributors**: 50
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 457 · **Open PRs**: 19 · **Closed issues**: 143 · **Open issues**: 40 · **Commits**: 1666
+- **Releases**: 54 · **Merged PRs**: 458 · **Open PRs**: 18 · **Closed issues**: 143 · **Open issues**: 40 · **Commits**: 1668
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 5 | 1 | 0 | 0 | 8 |
-| last60d | 2026-08-20 | 1 | 9 | 2 | 0 | 0 | 12 |
-| 90d | 2026-07-21 | 1 | 12 | 2 | 0 | 0 | 24 |
-| last180d | 2026-04-22 | 2 | 18 | 3 | 2 | 1 | 36 |
-| 360d | 2025-10-24 | 7 | 50 | 17 | 11 | 5 | 103 |
-| last720d | 2024-10-29 | 13 | 140 | 18 | 33 | 14 | 504 |
+| 30d | 2026-09-20 | 0 | 6 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-21 | 1 | 10 | 1 | 0 | 0 | 13 |
+| 90d | 2026-07-22 | 1 | 13 | 1 | 0 | 0 | 25 |
+| last180d | 2026-04-23 | 2 | 18 | 2 | 2 | 1 | 37 |
+| 360d | 2025-10-25 | 7 | 51 | 16 | 11 | 4 | 104 |
+| last720d | 2024-10-30 | 13 | 141 | 17 | 33 | 14 | 506 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:30:25Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:41:56Z._
