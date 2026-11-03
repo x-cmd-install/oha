@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.16.0` (2026-08-23)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 10,650 · **Forks**: 307 · **Open issues**: 183 · **Contributors**: 52
+- **Stars**: 10,653 · **Forks**: 307 · **Open issues**: 183 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 461 · **Open PRs**: 19 · **Closed issues**: 143 · **Open issues**: 40 · **Commits**: 1674
+- **Releases**: 54 · **Merged PRs**: 462 · **Open PRs**: 19 · **Closed issues**: 143 · **Open issues**: 40 · **Commits**: 1679
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 9 | 1 | 0 | 0 | 8 |
-| last60d | 2026-09-03 | 0 | 11 | 2 | 0 | 0 | 13 |
-| 90d | 2026-08-04 | 1 | 14 | 2 | 0 | 0 | 27 |
-| last180d | 2026-05-06 | 2 | 20 | 3 | 2 | 1 | 39 |
-| 360d | 2025-11-07 | 6 | 46 | 16 | 11 | 4 | 98 |
-| last720d | 2024-11-12 | 13 | 142 | 18 | 31 | 14 | 504 |
+| 30d | 2026-10-04 | 0 | 8 | 1 | 0 | 0 | 12 |
+| last60d | 2026-09-04 | 0 | 12 | 2 | 0 | 0 | 17 |
+| 90d | 2026-08-05 | 1 | 15 | 2 | 0 | 0 | 31 |
+| last180d | 2026-05-07 | 2 | 21 | 3 | 2 | 1 | 43 |
+| 360d | 2025-11-08 | 6 | 47 | 16 | 11 | 4 | 102 |
+| last720d | 2024-11-13 | 13 | 143 | 18 | 31 | 14 | 509 |
 
 ## Release assets
 
@@ -78,12 +78,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/oha). **13** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/oha). **11** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.16.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.16.0` | ✅ latest |
 | Nix unstable | `1.16.0` | ✅ latest |
 | Alpine edge | `1.16.0` | ✅ latest |
 
@@ -96,4 +96,4 @@ Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:52:04Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:35:28Z._
