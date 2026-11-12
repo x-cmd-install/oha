@@ -1,47 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: oha
-  visiblename: oha
-  version: 1.8.0
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: oha
-  visiblename: oha
-  version: 1.4.7
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: oha
-  visiblename: oha
-  version: 1.11.0
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: oha
-  visiblename: oha
-  version: 1.4.4
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: oha
@@ -186,6 +142,50 @@
   origversion: 1.16.0-1
   status: newest
   summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: oha
+  visiblename: oha
+  version: 1.4.4
+  origversion: null
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: oha
+  visiblename: oha
+  version: 1.4.7
+  origversion: null
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: oha
+  visiblename: oha
+  version: 1.8.0
+  origversion: null
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: oha
+  visiblename: oha
+  version: 1.11.0
+  origversion: null
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: nix_stable_26_05
