@@ -37,22 +37,22 @@ Total: **9,203** lines of code across **26** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,685 · **Forks**: 309 · **Open issues**: 184 · **Contributors**: 52
+- **Stars**: 10,689 · **Forks**: 309 · **Open issues**: 184 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 465 · **Open PRs**: 19 · **Closed issues**: 144 · **Open issues**: 40 · **Commits**: 1687
+- **Releases**: 55 · **Merged PRs**: 465 · **Open PRs**: 18 · **Closed issues**: 144 · **Open issues**: 40 · **Commits**: 1687
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 8 | 2 | 1 | 0 | 10 |
-| last60d | 2026-09-17 | 1 | 13 | 2 | 1 | 0 | 21 |
-| 90d | 2026-08-18 | 2 | 17 | 2 | 1 | 0 | 25 |
-| last180d | 2026-05-20 | 3 | 24 | 3 | 2 | 0 | 48 |
-| 360d | 2025-11-21 | 7 | 49 | 15 | 12 | 4 | 104 |
-| last720d | 2024-11-26 | 14 | 143 | 18 | 31 | 13 | 513 |
+| 30d | 2026-10-18 | 1 | 7 | 1 | 1 | 0 | 10 |
+| last60d | 2026-09-18 | 1 | 13 | 1 | 1 | 0 | 21 |
+| 90d | 2026-08-19 | 2 | 17 | 1 | 1 | 0 | 25 |
+| last180d | 2026-05-21 | 3 | 24 | 2 | 2 | 0 | 48 |
+| 360d | 2025-11-22 | 7 | 49 | 14 | 12 | 4 | 104 |
+| last720d | 2024-11-27 | 14 | 141 | 17 | 31 | 13 | 511 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **9,203** lines of code across **26** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/oha). **6** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/oha). **7** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:17:00Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:52:44Z._
