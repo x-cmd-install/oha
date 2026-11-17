@@ -1,66 +1,3 @@
-- repo: crates_io
-  srcname: oha
-  visiblename: oha
-  version: 1.17.0
-  origversion: null
-  status: newest
-  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- repo: nix_stable_24_11
-  srcname: oha
-  visiblename: oha
-  version: 1.4.7
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: oha
-  visiblename: oha
-  version: 1.8.0
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: oha
-  visiblename: oha
-  version: 1.11.0
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: oha
-  visiblename: oha
-  version: 1.4.4
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: aur
-  srcname: oha-git
-  binname: oha-git
-  visiblename: oha-git
-  version: 1.13.0.r0.g2eb7b9e
-  origversion: 1.13.0.r0.g2eb7b9e-1
-  status: rolling
-  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
-  maintainers:
-    - chocobo1@aur
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: oha
@@ -114,6 +51,25 @@
   summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
   licenses:
     - MIT
+- repo: aur
+  srcname: oha-git
+  binname: oha-git
+  visiblename: oha-git
+  version: 1.13.0.r0.g2eb7b9e
+  origversion: 1.13.0.r0.g2eb7b9e-1
+  status: rolling
+  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
+  maintainers:
+    - chocobo1@aur
+  licenses:
+    - MIT
+- repo: crates_io
+  srcname: oha
+  visiblename: oha
+  version: 1.17.0
+  origversion: null
+  status: newest
+  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - repo: freebsd
   srcname: net/oha
   binname: oha
@@ -171,9 +127,9 @@
   srcname: oha
   binname: oha
   visiblename: oha
-  version: 1.16.0
-  origversion: 1.16.0-1
-  status: outdated
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: newest
   summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
   licenses:
     - MIT
@@ -186,6 +142,50 @@
   origversion: 1.17.0-1
   status: newest
   summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: oha
+  visiblename: oha
+  version: 1.4.4
+  origversion: null
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: oha
+  visiblename: oha
+  version: 1.4.7
+  origversion: null
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: oha
+  visiblename: oha
+  version: 1.8.0
+  origversion: null
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: oha
+  visiblename: oha
+  version: 1.11.0
+  origversion: null
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: nix_stable_26_05
