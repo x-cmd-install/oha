@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: oha
+  visiblename: oha
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: HTTP load generator, inspired by rakyll/hey with tui animation
 - repo: alpine_edge
   subrepo: testing
   srcname: oha
@@ -88,13 +95,6 @@
   version: 1.17.0
   origversion: null
   status: newest
-  summary: HTTP load generator, inspired by rakyll/hey with tui animation
-- repo: homebrew
-  srcname: oha
-  visiblename: oha
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: HTTP load generator, inspired by rakyll/hey with tui animation
 - repo: macports
   srcname: net/oha
@@ -202,9 +202,9 @@
 - repo: nix_unstable
   srcname: oha
   visiblename: oha
-  version: 1.16.0
+  version: 1.17.0
   origversion: null
-  status: outdated
+  status: newest
   summary: HTTP load generator inspired by rakyll/hey with tui animation
   maintainers:
     - jpds@github
