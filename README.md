@@ -37,7 +37,7 @@ Total: **9,259** lines of code across **26** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,698 · **Forks**: 310 · **Open issues**: 184 · **Contributors**: 53
+- **Stars**: 10,701 · **Forks**: 310 · **Open issues**: 184 · **Contributors**: 53
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **9,259** lines of code across **26** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 8 | 1 | 1 | 0 | 11 |
-| last60d | 2026-09-20 | 1 | 14 | 1 | 1 | 0 | 22 |
-| 90d | 2026-08-21 | 2 | 18 | 1 | 1 | 0 | 26 |
-| last180d | 2026-05-23 | 3 | 25 | 2 | 2 | 0 | 49 |
-| 360d | 2025-11-24 | 7 | 48 | 14 | 12 | 4 | 105 |
-| last720d | 2024-11-29 | 14 | 140 | 17 | 31 | 13 | 489 |
+| 30d | 2026-10-21 | 1 | 8 | 1 | 1 | 0 | 11 |
+| last60d | 2026-09-21 | 1 | 14 | 1 | 1 | 0 | 22 |
+| 90d | 2026-08-22 | 2 | 18 | 1 | 1 | 0 | 26 |
+| last180d | 2026-05-24 | 3 | 25 | 2 | 2 | 0 | 49 |
+| 360d | 2025-11-25 | 7 | 47 | 14 | 12 | 4 | 105 |
+| last720d | 2024-11-30 | 14 | 139 | 17 | 30 | 13 | 480 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:15:48Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:06:05Z._
