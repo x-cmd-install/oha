@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12529488,
       "digest": "sha256:85c6eb98066b8c8bd513b2dd96fafd8f9863249ea653606bae1ca2e3a75c43d2",
-      "download_count": 1178,
+      "download_count": 1422,
       "created_at": "2026-11-14T07:48:02Z",
       "updated_at": "2026-11-14T07:48:03Z",
       "browser_download_url": "https://github.com/hatoo/oha/releases/download/v1.17.0/oha-linux-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11886480,
       "digest": "sha256:11731fcb29b9820c644af0612ce2a68ec677c262c00a00033dd132da905befad",
-      "download_count": 17,
+      "download_count": 22,
       "created_at": "2026-11-14T07:53:07Z",
       "updated_at": "2026-11-14T07:53:08Z",
       "browser_download_url": "https://github.com/hatoo/oha/releases/download/v1.17.0/oha-linux-amd64-pgo"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10621064,
       "digest": "sha256:0b360c858f6277a5fca691d38adbd2dbc8c344d049ddf1a12fee8a762351ea24",
-      "download_count": 98,
+      "download_count": 113,
       "created_at": "2026-11-14T07:49:40Z",
       "updated_at": "2026-11-14T07:49:41Z",
       "browser_download_url": "https://github.com/hatoo/oha/releases/download/v1.17.0/oha-linux-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11032192,
       "digest": "sha256:c372c87b3273d60aeeb0516f026672bdbcf234638e06ce43a752142c54651ca3",
-      "download_count": 67,
+      "download_count": 73,
       "created_at": "2026-11-14T07:50:41Z",
       "updated_at": "2026-11-14T07:50:41Z",
       "browser_download_url": "https://github.com/hatoo/oha/releases/download/v1.17.0/oha-macos-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9538128,
       "digest": "sha256:2c58f2bac11ae23a12f6188a6723fd1882fa82f73d9874c2141eb78c222752c7",
-      "download_count": 63,
+      "download_count": 70,
       "created_at": "2026-11-14T07:47:03Z",
       "updated_at": "2026-11-14T07:47:04Z",
       "browser_download_url": "https://github.com/hatoo/oha/releases/download/v1.17.0/oha-macos-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7042048,
       "digest": "sha256:2855a2449e11a6f064dd0a6b3bd271100d5c85e63d55c2fb672a91f7c5e17209",
-      "download_count": 23,
+      "download_count": 27,
       "created_at": "2026-11-14T07:54:12Z",
       "updated_at": "2026-11-14T07:54:13Z",
       "browser_download_url": "https://github.com/hatoo/oha/releases/download/v1.17.0/oha-windows-amd64-pgo.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7921664,
       "digest": "sha256:3971644690672523c5d998874bef397cbc5d800cb1ba7164882eb7fe8f6027ac",
-      "download_count": 134,
+      "download_count": 149,
       "created_at": "2026-11-14T07:49:12Z",
       "updated_at": "2026-11-14T07:49:13Z",
       "browser_download_url": "https://github.com/hatoo/oha/releases/download/v1.17.0/oha-windows-amd64.exe"
