@@ -1,10 +1,47 @@
-- repo: homebrew
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: oha
+  binname: oha
+  visiblename: oha
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: newest
+  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
   srcname: oha
   visiblename: oha
-  version: HEAD
+  version: 1.4.4
   origversion: null
-  status: rolling
-  summary: HTTP load generator, inspired by rakyll/hey with tui animation
+  status: outdated
+  summary: HTTP load generator inspired by rakyll/hey with tui animation
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: oha
+  binname: oha
+  visiblename: oha
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: newest
+  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: oha
+  binname: oha
+  visiblename: oha
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: newest
+  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: oha
@@ -96,6 +133,13 @@
   origversion: null
   status: newest
   summary: HTTP load generator, inspired by rakyll/hey with tui animation
+- repo: homebrew
+  srcname: oha
+  visiblename: oha
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: HTTP load generator, inspired by rakyll/hey with tui animation
 - repo: macports
   srcname: net/oha
   binname: oha
@@ -111,50 +155,6 @@
     - MIT
   categories:
     - net
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: oha
-  binname: oha
-  visiblename: oha
-  version: 1.16.0
-  origversion: 1.16.0-1
-  status: outdated
-  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: oha
-  binname: oha
-  visiblename: oha
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: newest
-  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: oha
-  binname: oha
-  visiblename: oha
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: newest
-  summary: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: oha
-  visiblename: oha
-  version: 1.4.4
-  origversion: null
-  status: outdated
-  summary: HTTP load generator inspired by rakyll/hey with tui animation
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - MIT
 - repo: nix_stable_24_11
   srcname: oha
   visiblename: oha
