@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,733 · **Forks**: 309 · **Open issues**: 185 · **Contributors**: 53
+- **Stars**: 10,744 · **Forks**: 311 · **Open issues**: 186 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 466 · **Open PRs**: 18 · **Closed issues**: 144 · **Open issues**: 41 · **Commits**: 1689
+- **Releases**: 55 · **Merged PRs**: 466 · **Open PRs**: 18 · **Closed issues**: 144 · **Open issues**: 42 · **Commits**: 1689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 6 | 1 | 1 | 1 | 11 |
-| last60d | 2026-09-26 | 1 | 14 | 1 | 1 | 1 | 22 |
-| 90d | 2026-08-27 | 1 | 16 | 1 | 1 | 1 | 26 |
-| last180d | 2026-05-29 | 3 | 25 | 2 | 2 | 1 | 49 |
-| 360d | 2025-11-30 | 6 | 45 | 14 | 11 | 5 | 95 |
-| last720d | 2024-12-05 | 14 | 138 | 17 | 30 | 14 | 475 |
+| 30d | 2026-10-27 | 1 | 6 | 1 | 1 | 2 | 0 |
+| last60d | 2026-09-27 | 1 | 14 | 1 | 1 | 2 | 0 |
+| 90d | 2026-08-28 | 1 | 16 | 1 | 1 | 2 | 0 |
+| last180d | 2026-05-30 | 3 | 25 | 2 | 2 | 2 | 0 |
+| 360d | 2025-12-01 | 6 | 45 | 14 | 11 | 6 | 0 |
+| last720d | 2024-12-06 | 14 | 136 | 17 | 30 | 15 | 473 |
 
 ## Release assets
 
@@ -76,17 +76,6 @@ Lowest-scoring checks:
 | [oha-windows-amd64-pgo.exe](https://github.com/hatoo/oha/releases/download/v1.17.0/oha-windows-amd64-pgo.exe) | 6.7 MiB | `native/win/x64` |
 | [oha-windows-amd64.exe](https://github.com/hatoo/oha/releases/download/v1.17.0/oha-windows-amd64.exe) | 7.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **22** distros on [repology.org](https://repology.org/project/oha). **9** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.17.0` | ✅ latest |
-| Homebrew | `1.17.0` | ✅ latest |
-| Nix unstable | `1.17.0` | ✅ latest |
-| Alpine edge | `1.16.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oha` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +85,4 @@ Install metadata for oha lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:20:52Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:07:32Z._
