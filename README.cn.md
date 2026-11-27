@@ -47,7 +47,7 @@ x install oha
 
 ## 流行度
 
-- **Star**: 10,744 · **Fork**: 311 · **开放 issue**: 186 · **贡献者**: 53
+- **Star**: 10,749 · **Fork**: 311 · **开放 issue**: 186 · **贡献者**: 53
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install oha
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 6 | 1 | 1 | 2 | 0 |
-| last60d | 2026-09-27 | 1 | 14 | 1 | 1 | 2 | 0 |
-| 90d | 2026-08-28 | 1 | 16 | 1 | 1 | 2 | 0 |
-| last180d | 2026-05-30 | 3 | 25 | 2 | 2 | 2 | 0 |
-| 360d | 2025-12-01 | 6 | 45 | 14 | 11 | 6 | 0 |
-| last720d | 2024-12-06 | 14 | 136 | 17 | 30 | 15 | 473 |
+| 30d | 2026-10-28 | 1 | 6 | 1 | 1 | 2 | 0 |
+| last60d | 2026-09-28 | 1 | 14 | 1 | 1 | 2 | 0 |
+| 90d | 2026-08-29 | 1 | 16 | 1 | 1 | 2 | 0 |
+| last180d | 2026-05-31 | 3 | 25 | 2 | 2 | 2 | 0 |
+| 360d | 2025-12-02 | 6 | 45 | 14 | 11 | 6 | 0 |
+| last720d | 2024-12-07 | 14 | 135 | 17 | 30 | 15 | 469 |
 
 ## Release 资产
 
@@ -76,6 +76,17 @@ x install oha
 | [oha-windows-amd64-pgo.exe](https://github.com/hatoo/oha/releases/download/v1.17.0/oha-windows-amd64-pgo.exe) | 6.7 MiB | `native/win/x64` |
 | [oha-windows-amd64.exe](https://github.com/hatoo/oha/releases/download/v1.17.0/oha-windows-amd64.exe) | 7.6 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/oha) 上共有 **22** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.17.0` | ✅ latest |
+| Homebrew | `1.17.0` | ✅ latest |
+| Nix unstable | `1.17.0` | ✅ latest |
+| Alpine edge | `1.16.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 oha 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `oha` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -85,4 +96,4 @@ oha 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:07:33Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T08:34:11Z._
